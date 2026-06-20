@@ -1,5 +1,14 @@
 # ChIP-seq Zebra Finch Pipeline
+# ChIP-seq Zebra Finch Pipeline
 
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-blue)
+![R](https://img.shields.io/badge/R-Bioconductor-blue)
+![MACS3](https://img.shields.io/badge/MACS3-v3.0-green)
+![Species](https://img.shields.io/badge/Species-Taeniopygia_guttata-orange)
+
+End-to-end ChIP-seq analysis workflow for *Taeniopygia guttata* (zebra finch) using Linux and R/Bioconductor.
+
+---
 End-to-end ChIP-seq analysis workflow for *Taeniopygia guttata* (zebra finch) using Linux and R/Bioconductor.
 
 ---
