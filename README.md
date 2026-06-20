@@ -129,3 +129,5 @@ chipseq-zebrafinch-pipeline
 PhD Researcher
 
 Epigenetics • Chromatin Biology • Computational Genomics
+
+GitHub: https://github.com/SoumenEpigene
